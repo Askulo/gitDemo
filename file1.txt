@@ -1,2 +1,2 @@
 
-Hello studenst from revert learning from git add
+Hello studenst from revert learning from git add from anywhere
